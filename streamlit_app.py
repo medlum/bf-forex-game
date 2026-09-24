@@ -16,7 +16,7 @@ EXCHANGE_RATES = {
 DAILY_SCENARIOS = {
     1: {
         "Event": "Market Open",
-        "Hint": "Given Day 1 & 2 rates, buying EUR or SGD yields a profit."
+        "Hint": "DAY 2 EXCHANGE RATE [USD/SGD 1.3200 +0.02 ▲]   [USD/EUR 0.9100 -0.01 ▼]   [USD/JPY 160.00 0.00 ▬]"
     },
     2: {
         "Event": "Japan Central Bank plans to hike interest rates on Day 3.",
